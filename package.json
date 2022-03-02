@@ -1,6 +1,6 @@
 {
-  "name": "asterisk.io",
-  "version": "0.1.1",
+  "name": "asterisk.io-edited",
+  "version": "0.1.0",
   "description": "node.js asterisk pbx io",
   "keywords": [
     "asterisk",
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/zmarius81/asterisk.io.git"
+    "url": "git://github.com/Mahdi-Abbariki/asterisk.io"
   },
   "contributors": [
     "Zugravu Eugen Marius <marius@zugravu.com>"
@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/zmarius81/asterisk.io/issues"
   },
-  "homepage": "https://github.com/zmarius81/asterisk.io#readme",
+  "homepage": "https://github.com/Mahdi-Abbariki/asterisk.io",
   "main": "index.js",
   "directories": {
     "example": "examples",

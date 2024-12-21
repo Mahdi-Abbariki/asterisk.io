@@ -1,6 +1,6 @@
 {
   "name": "asterisk.io-edited",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "node.js asterisk pbx io",
   "keywords": [
     "asterisk",
@@ -16,7 +16,8 @@
     "url": "git://github.com/Mahdi-Abbariki/asterisk.io"
   },
   "contributors": [
-    "Zugravu Eugen Marius <marius@zugravu.com>"
+    "Zugravu Eugen Marius <marius@zugravu.com>",
+    "Mahdi Abbariki <m.abbarikim@gmail.com>"
   ],
   "bugs": {
     "url": "https://github.com/zmarius81/asterisk.io/issues"
@@ -31,9 +32,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": {
-    "email": "info@mahdiab.ir",
-    "name": "Mahdi Abbariki",
-    "url": "https://mahdiab.ir"
+    "email": "m.abbarikim@gmail.com",
+    "name": "Mahdi Abbariki"
   },
   "license": "MIT"
 }
